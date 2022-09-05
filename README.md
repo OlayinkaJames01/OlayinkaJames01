@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**OlayinkaJames01/OlayinkaJames01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James Olayinka with interest in optimization leveraging Data and Analytics in a bid to create or innovate viable processes and operations 
 
-Here are some ideas to get you started:
+I have experienced working in Financial Services, FMCG, EdTech and Diversified Business Interest Corporations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Data Analytics ✳️ Data Science and ✳️ Process Optimization
+
+I also love working with different technologies & platforms and my current favorite ones are
+
+🧑‍💻 Microsoft Excel
+🧑‍💻 Python
+🧑‍💻 SQL / PostgreSQL / MySQL
+🧑‍💻 PowerBI / Tableau
+🧑‍💻 Robotics Process Automation
+
+[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlayinkaJames01)](https://github.com/OlayinkaJames01/github-readme-stats)
+
