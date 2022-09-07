@@ -2,7 +2,7 @@
 
 I'm James Olayinka with interest in optimization leveraging Data and Analytics in a bid to create or innovate viable processes and operations 
 
-I have experienced working in Financial Services, FMCG, EdTech and Diversified Business Interest Corporations
+I have experienced working in Technology, Financial Services, FMCG, EdTech and Diversified Business Interest Corporations
 
 In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas including 
 
