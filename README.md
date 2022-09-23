@@ -16,7 +16,7 @@ I also love working with different technologies & platforms and my current favor
 🧑‍💻 PowerBI / Tableau
 🧑‍💻 Robotics Process Automation
 
-[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlayinkaJames01)](https://github.com/OlayinkaJames01/github-readme-stats)
+<![![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlayinkaJames01)](https://github.com/OlayinkaJames01/github-readme-stats)-->
 
 #### Connect with me:
 <p align="left">
