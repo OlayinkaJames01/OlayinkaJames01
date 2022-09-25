@@ -8,7 +8,7 @@ In my free time, you can often find me coding, learning new stuff, and honing my
 
 I also love working with different technologies & platforms and my current favorite ones are
 
-🧑‍💻 Microsoft Excel
+- Microsoft Excel
 🧑‍💻 Python Scientific Stacks
 🧑‍💻 MySQL / PostgreSQL
 🧑‍💻 PowerBI / Tableau
