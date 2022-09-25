@@ -6,8 +6,6 @@ I have experienced working in Technology, Financial Services, FMCG, EdTech and D
 
 In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas including 
 
-✳️ Data Analytics ✳️ Data Science ✳️ Process Optimization ✳️ Strategy
-
 I also love working with different technologies & platforms and my current favorite ones are
 
 🧑‍💻 Microsoft Excel
