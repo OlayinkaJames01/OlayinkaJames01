@@ -5,7 +5,7 @@
 
 I'm <strong>James Olayinka</strong> an industrial and systems engineer with interest in operations and process optimization leveraging <strong>Data and Analytics</strong> in a bid to create or innovate <strong>viable systems</strong>. I have experience working in diverse industries which includes - Technology, Financial Services, FMCG, EdTech and Diversified Business Interest Corporations
 
-In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas including. I also love working with different technologies & platforms and my current favorites ones are:
+In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas. I also love working with different technologies & platforms and my current favorites ones are:
 
 - Microsoft Excel
 - Python
