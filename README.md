@@ -7,10 +7,10 @@ I'm <strong>James Olayinka</strong> an industrial and systems engineer with inte
 
 In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas. I also love working with different technologies & platforms and my current favorites ones are:
 
-- Microsoft Excel
 - Python
 - SQL
-- PowerBI / Tableau
+- PowerBI / Tableau / Metabase 
+- Google Cloud Platform
 - Robotics Process Automation (UiPath)
 
 <details>
