@@ -8,8 +8,9 @@ I'm <strong>James Olayinka</strong> an industrial and systems engineer with inte
 In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas. I also love working with different technologies & platforms and my current favorites ones are:
 
 <strong>Key Competences:</strong> Data Science, Analytics and Data Engineering, Design Thinking, Process Optimization, Operations, and Strategy. 
-<strong>Key Technologies:</strong> Python Stacks (Pandas, NumPy, Matplotlib, Plotly Dash, Seaborn and Scikit-learn), Relational and NoSQL Databases,
-and Cloud Technologies (Google Cloud Platform), Flask and Git.
+
+<strong>Key Technologies:</strong> Python Stacks (Pandas, NumPy, Matplotlib, Plotly Dash, Seaborn and Scikit-learn), Relational and NoSQL Databases, and Cloud Technologies (Google Cloud Platform), Flask and Git.
+
 <strong>Key Tools:</strong> Jira, GitHub, Tableau, PowerBI, Google Cloud Platform, Metabase, Retool, and Microsoft Office Tools.
 
 <details>
