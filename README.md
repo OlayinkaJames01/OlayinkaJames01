@@ -3,15 +3,14 @@
 <!-- <summary><strong>About Me</strong></summary> -->
 ### About Me
 
-I'm <strong>James Olayinka</strong> an industrial and systems engineer with interest in operations and process optimization leveraging <strong>Data and Analytics</strong> in a bid to create or innovate <strong>viable systems</strong>. I have experience working in diverse industries which includes - Technology, Financial Services, FMCG, EdTech and Diversified Business Interest Corporations
+I'm <strong>James Olayinka</strong> an industrial and systems engineer with interest in <strong>Big Data Engineering, Analytics, and Machine Learning</strong> in a bid to create or innovate <strong>viable systems</strong>. I have experience working in diverse industries which includes - Technology, Financial Services, FMCG, EdTech and Diversified Business Interest Corporations
 
 In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas. I also love working with different technologies & platforms and my current favorites ones are:
 
-- Python
-- SQL
-- PowerBI / Tableau / Metabase 
-- Google Cloud Platform
-- Robotics Process Automation (UiPath)
+<strong>Key Competences:</strong> Data Science, Analytics and Data Engineering, Design Thinking, Process Optimization, Operations, and Strategy. 
+<strong>Key Technologies:</strong> Python Stacks (Pandas, NumPy, Matplotlib, Plotly Dash, Seaborn and Scikit-learn), Relational and NoSQL Databases,
+and Cloud Technologies (Google Cloud Platform), Flask and Git.
+<strong>Key Tools:</strong> Jira, GitHub, Tableau, PowerBI, Google Cloud Platform, Metabase, Retool, and Microsoft Office Tools.
 
 <details>
     
