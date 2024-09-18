@@ -5,12 +5,10 @@
 
 I'm <strong>James Olayinka</strong> with interest in  <strong>Big Data, Analytics, Strategy and Social Impact </strong> 
 
-In my free time, you can often find me coding, learning new stuff, and honing my skills on various areas. 
 <details>
     
-<summary><strong>More About Me</strong></summary>
+<summary><strong>Connect with me : </strong></summary>
 
-###### Connect with me:
 <p align="left">
 <a href="https://twitter.com/olayinkajames01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olayinkajames01" height="20" width="20" /></a> &nbsp &nbsp
 <a href="https://www.linkedin.com/in/jamesolayinka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olayinka james" height="20" width="20" /></a> &nbsp &nbsp
