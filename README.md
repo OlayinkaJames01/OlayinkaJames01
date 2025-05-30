@@ -1,6 +1,6 @@
 # Hi there! 👋
 <!-- <summary><strong>About Me</strong></summary> -->
-I'm <strong>James Olayinka</strong> with interest in  <strong>Big Data, Quantitative Finance, and Social Impact.<strong>  
+I'm <strong>James Olayinka</strong> with interest in  <strong>Big Data, Quantitative Finance, and Social Impact. <strong>  
 
 I'm currntly working in a global financial services firm within the intersection of Quantitative Finance, Programming, Risk and Market Data Management.
 
