@@ -1,6 +1,7 @@
 # Hi there! 👋
 <!-- <summary><strong>About Me</strong></summary> -->
 I'm <strong>James Olayinka</strong> with interest in  <strong>Big Data, Quantitative Analytics in Finance, and Social Impact.<strong>  
+
 I'm currntly working in a global financial service firm within the intersection of Quantitative Finance, Programming, Risk and Market Data Management.
 
 # Tech Stack 💻:
