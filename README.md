@@ -4,7 +4,7 @@ I'm passionate about **Big Data**, **Quantitative Finance**, and driving **Socia
 
 💼 I'm currently working at a **global financial services firm**, operating at the intersection of:
 - 📊 Quantitative Finance  
-- 💻 Programming  
+- 💻 Programming (Python & SQL)
 - ⚠️ Risk Management  
 - 📈 Market Data Infrastructure
 
