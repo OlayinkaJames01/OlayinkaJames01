@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm James Olayinka
+### 👋 Hi there! I'm James Olayinka
 
 I'm passionate about **Big Data**, **Quantitative Finance**, and driving **Social Impact** through education, technology, and innovation.
 
