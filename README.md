@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm James Olayinka
+### 👋🏾 Hi there! I'm James Olayinka
 
 I work at a global financial firm, blending Quantitative Finance, Data Engineering, Risk, & Market Data Systems to drive impact.
 
